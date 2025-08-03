@@ -64,14 +64,23 @@ To analyze agricultural production patterns in Rwanda and categorize crops by yi
 ## 🗂️ Repository Structure
 
 ├── data/
+
 │ ├── Crop_AgroVars_rawdata_Rwanda_2014–2020.csv
+
 │ └── rwanda_crop_production_trends.csv
+
 ├── screenshots/
+
 │ ├── python_analysis_screens.png
+
 │ ├── powerbi_dashboard_layout.png
+
 │ └── clustering_output.png
+
 ├── rwanda_yield.ipynb # Full Python notebook (EDA + clustering)
-├── rwanda_yield_analysis.pbix # Final Power BI dashboard
+
+├── rwanda-yield.pbix # Final Power BI dashboard
+
 └── README.md # This file
 
 
