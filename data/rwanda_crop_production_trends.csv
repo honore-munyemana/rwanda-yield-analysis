@@ -1,45 +1,45 @@
-Item,Value,Cluster,Production_Tier
-Avocados,1831432.04,0,Tier 3 - Low Yield
-Bananas,14730121.0,1,Tier 1 - High Yield
-Barley,0.0,0,Tier 3 - Low Yield
-"Beans, dry",8223124.02,1,Tier 1 - High Yield
-Cabbages,1727629.43,0,Tier 3 - Low Yield
-Carrots and turnips,1025227.45,0,Tier 3 - Low Yield
-"Cassava, fresh",10503182.05,1,Tier 1 - High Yield
-"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",592470.53,0,Tier 3 - Low Yield
-"Coffee, green",513859.16,0,Tier 3 - Low Yield
-Eggplants (aubergines),1242527.98,0,Tier 3 - Low Yield
-"Groundnuts, excluding shelled",448767.33999999997,0,Tier 3 - Low Yield
-Leeks and other alliaceous vegetables,151200.57,0,Tier 3 - Low Yield
-Lemons and limes,431166.2,0,Tier 3 - Low Yield
-Maize (corn),5796401.41,1,Tier 2 - Moderate Yield
-"Mangoes, guavas and mangosteens",839786.37,0,Tier 3 - Low Yield
-Millet,163381.39,0,Tier 3 - Low Yield
-"Onions and shallots, dry (excluding dehydrated)",788528.0,0,Tier 3 - Low Yield
-Oranges,189357.11,0,Tier 3 - Low Yield
-"Other beans, green",678262.03,0,Tier 3 - Low Yield
-"Other fruits, n.e.c.",1304439.13,0,Tier 3 - Low Yield
-"Other stimulant, spice and aromatic crops, n.e.c.",184071.52,0,Tier 3 - Low Yield
-"Other tropical fruits, n.e.c.",1183130.88,0,Tier 3 - Low Yield
-"Other vegetables, fresh n.e.c.",1217779.47,0,Tier 3 - Low Yield
-Papayas,1517084.27,0,Tier 3 - Low Yield
-"Peas, dry",380003.96,0,Tier 3 - Low Yield
-"Pepper (Piper spp.), raw",319380.52,0,Tier 3 - Low Yield
-Pineapples,697409.04,0,Tier 3 - Low Yield
-Plantains and cooking bananas,8125650.6899999995,1,Tier 1 - High Yield
-Potatoes,8230062.24,1,Tier 1 - High Yield
-"Pumpkins, squash and gourds",2871856.17,0,Tier 2 - Moderate Yield
-"Pyrethrum, dried flowers",87311.49,0,Tier 3 - Low Yield
-Rape or colza seed,0.0,0,Tier 3 - Low Yield
-Rice,1415438.3900000001,0,Tier 3 - Low Yield
-"Seed cotton, unginned",0.0,0,Tier 3 - Low Yield
-Sorghum,2560348.46,0,Tier 2 - Moderate Yield
-Soya beans,608775.42,0,Tier 3 - Low Yield
-Sugar cane,1871094.89,0,Tier 3 - Low Yield
-Sweet potatoes,10774590.370000001,1,Tier 1 - High Yield
-Taro,1908511.75,0,Tier 3 - Low Yield
-Tea leaves,1675597.48,0,Tier 3 - Low Yield
-Tomatoes,1792360.85,0,Tier 3 - Low Yield
-Unmanufactured tobacco,167310.22,0,Tier 3 - Low Yield
-Wheat,276266.12,0,Tier 3 - Low Yield
-Yams,1278313.04,0,Tier 3 - Low Yield
+Item,Value,Cluster,Production_Tier,Production_Percent
+Avocados,1831432.04,0,Tier 3 - Low Yield,1.83
+Bananas,14730121.0,1,Tier 1 - High Yield,14.68
+Barley,0.0,0,Tier 3 - Low Yield,0.0
+"Beans, dry",8223124.02,1,Tier 1 - High Yield,8.2
+Cabbages,1727629.43,0,Tier 3 - Low Yield,1.72
+Carrots and turnips,1025227.45,0,Tier 3 - Low Yield,1.02
+"Cassava, fresh",10503182.05,1,Tier 1 - High Yield,10.47
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",592470.53,0,Tier 3 - Low Yield,0.59
+"Coffee, green",513859.16,0,Tier 3 - Low Yield,0.51
+Eggplants (aubergines),1242527.98,0,Tier 3 - Low Yield,1.24
+"Groundnuts, excluding shelled",448767.34,0,Tier 3 - Low Yield,0.45
+Leeks and other alliaceous vegetables,151200.57,0,Tier 3 - Low Yield,0.15
+Lemons and limes,431166.2,0,Tier 3 - Low Yield,0.43
+Maize (corn),5796401.41,1,Tier 2 - Moderate Yield,5.78
+"Mangoes, guavas and mangosteens",839786.37,0,Tier 3 - Low Yield,0.84
+Millet,163381.39,0,Tier 3 - Low Yield,0.16
+"Onions and shallots, dry (excluding dehydrated)",788528.0,0,Tier 3 - Low Yield,0.79
+Oranges,189357.11,0,Tier 3 - Low Yield,0.19
+"Other beans, green",678262.03,0,Tier 3 - Low Yield,0.68
+"Other fruits, n.e.c.",1304439.13,0,Tier 3 - Low Yield,1.3
+"Other stimulant, spice and aromatic crops, n.e.c.",184071.52,0,Tier 3 - Low Yield,0.18
+"Other tropical fruits, n.e.c.",1183130.88,0,Tier 3 - Low Yield,1.18
+"Other vegetables, fresh n.e.c.",1217779.47,0,Tier 3 - Low Yield,1.21
+Papayas,1517084.27,0,Tier 3 - Low Yield,1.51
+"Peas, dry",380003.96,0,Tier 3 - Low Yield,0.38
+"Pepper (Piper spp.), raw",319380.52,0,Tier 3 - Low Yield,0.32
+Pineapples,697409.04,0,Tier 3 - Low Yield,0.7
+Plantains and cooking bananas,8125650.689999999,1,Tier 1 - High Yield,8.1
+Potatoes,8230062.24,1,Tier 1 - High Yield,8.2
+"Pumpkins, squash and gourds",2871856.17,0,Tier 2 - Moderate Yield,2.86
+"Pyrethrum, dried flowers",87311.49,0,Tier 3 - Low Yield,0.09
+Rape or colza seed,0.0,0,Tier 3 - Low Yield,0.0
+Rice,1415438.39,0,Tier 3 - Low Yield,1.41
+"Seed cotton, unginned",0.0,0,Tier 3 - Low Yield,0.0
+Sorghum,2560348.46,0,Tier 2 - Moderate Yield,2.55
+Soya beans,608775.42,0,Tier 3 - Low Yield,0.61
+Sugar cane,1871094.89,0,Tier 3 - Low Yield,1.87
+Sweet potatoes,10774590.37,1,Tier 1 - High Yield,10.74
+Taro,1908511.75,0,Tier 3 - Low Yield,1.9
+Tea leaves,1675597.48,0,Tier 3 - Low Yield,1.67
+Tomatoes,1792360.85,0,Tier 3 - Low Yield,1.79
+Unmanufactured tobacco,167310.22,0,Tier 3 - Low Yield,0.17
+Wheat,276266.12,0,Tier 3 - Low Yield,0.28
+Yams,1278313.04,0,Tier 3 - Low Yield,1.27
