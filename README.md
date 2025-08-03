@@ -19,7 +19,7 @@ To analyze agricultural production patterns in Rwanda and categorize crops by yi
 - **File**: `Crop_AgroVars_rawdata_Rwanda_2014–2020.csv`
 - **Rows**: 1,032  
 - **Columns**: 14  
-- **Status**: Cleaned and transformed
+- **Status**: Originally clean but enhanced and transformed through preprocessing, aggregation, clustering, and feature engineering.
 
 ---
 
